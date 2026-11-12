@@ -1,0 +1,15 @@
+# build output
+/dist/
+/static/
+
+# editor
+.vscode/
+.idea/
+*.swp
+
+# os
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
