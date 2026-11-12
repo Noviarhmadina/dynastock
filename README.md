@@ -1,4 +1,4 @@
-# DynaStock — Inventory Management System (web prototype)
+# DynaStock Inventory Management System (web prototype)
 
 Prototype for the Capstone Design Project
 **Optimisation of Inventory Management and Material Unloading to Improve Operational Efficiency
